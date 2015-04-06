@@ -1,2 +1,2 @@
-# escher
-A simple web framework built on Coil
+# rattle
+A routing library for coil
