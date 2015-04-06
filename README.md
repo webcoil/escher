@@ -1,2 +1,2 @@
 # rattle
-A routing library for coil
+A routing library for Coil
